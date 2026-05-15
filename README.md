@@ -1,6 +1,6 @@
 # Stereotypes in Style: Gender Bias in Multi-Modal AI Models
 
-**Master's Dissertation — University of Malta, 2025**  
+**Master's Dissertation — University of Malta, 2026**  
 **Author:** Charla Pia Vella  
 **Supervisors:** Dr Dylan Seychell, Prof. Vanessa Camilleri
 
