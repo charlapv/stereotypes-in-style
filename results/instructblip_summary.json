@@ -1,0 +1,15 @@
+{
+    "total_images": 50,
+    "model": "Salesforce/instructblip-flan-t5-xl",
+    "prompts_used": [
+        "neutral",
+        "gender_probe",
+        "clothing_focus"
+    ],
+    "aligns_true_neutral": 26,
+    "aligns_resnet_neutral": 24,
+    "aligns_true_gender_probe": 28,
+    "aligns_resnet_gender_probe": 22,
+    "aligns_true_clothing_focus": 28,
+    "aligns_resnet_clothing_focus": 22
+}
