@@ -1,0 +1,27 @@
+# Dataset and model files
+*.pt
+*.pth
+data/
+selected_images/
+selected_50_images/
+
+# Python environment
+vision_env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large embedding files
+arcface_embeddings_60k.csv
+fashionclip_embeddings_60k.csv
+
+# Dataset splits
+splits/
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
